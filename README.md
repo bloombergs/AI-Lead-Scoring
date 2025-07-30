@@ -16,8 +16,7 @@ A user-friendly Streamlit web app allows users to upload CSV files of leads, ded
 
 ## Installation
 1.	Clone the repository
-2.	Install required packages:
-pip install -r requirements.txt
+2.	Install required packages
 3.	Download GloVe embeddings (50d) from https://nlp.stanford.edu/data/glove.6B.zip, unzip, and place the file glove.6B.50d.txt in the project folder.
 4.	Place the pre-trained model file lead_scoring_model.pth in the project root folder.
 
