@@ -1,0 +1,5 @@
+name,email,job_title,company,company_size,domain
+Alice Johnson,alice.johnson@example.com,VP of Sales,Tech Innovators,150,example.com
+Bob Smith,bob.smith@example.org,Software Engineer,CodeWorks,30,example.org
+Carol Evans,carol.evans@startup.io,CEO,Startup.io,10,startup.io
+Duplicate Bob,bob.smith@example.org,Senior Developer,CodeWorks,30,example.org
